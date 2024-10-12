@@ -22,7 +22,7 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 console.log(global.owner);
 
-global.botNumber = '923051391007'; // Put your number here for pairing directly
+global.botNumber = '2348100253988'; // Put your number here for pairing directly
 
 global.mods = ['923444844060'];
 global.prems = ['923444844060']
